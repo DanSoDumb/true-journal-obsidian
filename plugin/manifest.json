@@ -1,0 +1,9 @@
+{
+  "id": "truevision-journal",
+  "name": "True Journal",
+  "version": "0.33.4-beta",
+  "minAppVersion": "1.4.0",
+  "description": "Local-first trade journal: log trades as Markdown notes, review them with branching questions, and see your stats — all inside your vault.",
+  "author": "True Journal",
+  "isDesktopOnly": false
+}

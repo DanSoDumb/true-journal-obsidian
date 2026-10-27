@@ -1,0 +1,121 @@
+{
+  "cards": {
+    "classic": {
+      "fx": 0.468,
+      "fy": 0.535,
+      "zoom": 1.3
+    },
+    "bronze": {
+      "fx": 0.43,
+      "fy": 0.5,
+      "zoom": 1.25
+    },
+    "silver": {
+      "fx": 0.5,
+      "fy": 0.5,
+      "zoom": 1
+    },
+    "gold": {
+      "fx": 0.42,
+      "fy": 0.27,
+      "zoom": 1.5
+    },
+    "platinum": {
+      "fx": 0.5,
+      "fy": 0.45,
+      "zoom": 1
+    },
+    "emerald": {
+      "fx": 0.5,
+      "fy": 0.565,
+      "zoom": 1.55
+    },
+    "sapphire": {
+      "fx": 0.5,
+      "fy": 0.53,
+      "zoom": 1.55
+    },
+    "black": {
+      "fx": 0.5,
+      "fy": 0.27,
+      "zoom": 1.6
+    },
+    "grandmaster": {
+      "fx": 0.55,
+      "fy": 0.3,
+      "zoom": 1.5
+    },
+    "challenger": {
+      "fx": 0.5,
+      "fy": 0.47,
+      "zoom": 1.15
+    },
+    "gym-arm": {
+      "fx": 0.55,
+      "fy": 0.42,
+      "zoom": 1,
+      "lines": true
+    },
+    "gym-sword": {
+      "fx": 0.5,
+      "fy": 0.4,
+      "zoom": 1,
+      "lines": true
+    },
+    "gym-calm": {
+      "fx": 0.5,
+      "fy": 0.72,
+      "zoom": 1.9,
+      "lines": true
+    }
+  },
+  "ranks": [
+    "iron",
+    "bronze",
+    "silver",
+    "gold",
+    "platinum",
+    "emerald",
+    "diamond",
+    "master",
+    "grandmaster",
+    "challenger"
+  ],
+  "certs": [
+    "soy-point",
+    "iron-grip",
+    "posture-check",
+    "stonks",
+    "toi-bi-ngu",
+    "flying-cow",
+    "birthday-unicorn",
+    "life",
+    "majestic-cat",
+    "ca-phe-sua",
+    "saigon-noir",
+    "golden-doge",
+    "nghin-ty",
+    "co-len",
+    "choose-peace",
+    "genius-lab",
+    "albiceleste",
+    "hero-hour",
+    "lone-wolf",
+    "night-watch",
+    "above-clouds",
+    "kawaii",
+    "ronin",
+    "fuji",
+    "night-drive",
+    "house-edge",
+    "evolution",
+    "chart-wizard",
+    "horizon",
+    "uno-reverse",
+    "zero-sugar",
+    "two-weeks",
+    "mugshot-kawaii",
+    "toc-vang"
+  ],
+  "firms": {"MyFundedFutures": "myfundedfutures", "Lucid Trading": "lucid", "Tradeify": "tradeify", "Take Profit Trader": "tpt", "FundedNext Futures": "fundednext", "Apex Trader Funding": "apex", "Topstep": "topstep", "FTMO": "ftmo", "FTMO Futures": "ftmo", "Legends Trading": "legends", "The Trading Pit": "tradingpit", "FFN": "ffn", "The5ers": "the5ers"}
+}
