@@ -26,3 +26,7 @@ edit to `plugin/main.js`. The other scripts build first.
 - `scripts/release.sh <version>` builds the zip and the patch in Downloads after bumping `plugin/manifest.json`.
 - The prop firm list is not part of the public source (see `src/41-prop-firm-list.js`); the release zips include it.
 - `scripts/test.sh`, `scripts/release.sh` and the patch need files that are not public (the tests and the patch base).
+
+## License
+
+The code is MIT licensed (see `LICENSE`). The pictures in `plugin/art/` and the font in `plugin/fonts/` are not covered: they keep their own owners and licenses.
