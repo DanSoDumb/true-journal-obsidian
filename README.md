@@ -29,4 +29,4 @@ edit to `plugin/main.js`. The other scripts build first.
 
 ## License
 
-The code is MIT licensed (see `LICENSE`). The pictures in `plugin/art/` and the font in `plugin/fonts/` are not covered: they keep their own owners and licenses.
+The code is MIT licensed (see `LICENSE` and `NOTICE`). The pictures in `plugin/art/` and the font in `plugin/fonts/` are not covered: they keep their own owners and licenses.

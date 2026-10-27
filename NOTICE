@@ -1,0 +1,5 @@
+True Journal
+
+The MIT license in LICENSE covers the source code. It does not cover:
+- plugin/fonts/: Instrument Serif, under the SIL Open Font License (plugin/fonts/InstrumentSerif-OFL.txt).
+- plugin/art/: pictures, including prop firm logos, which belong to their owners and are used only to identify them.
